@@ -1,8 +1,8 @@
 //
-//  AppDelegate.swift
-//  MAPD724-W2022-MidTerm-301299251
-//
-//  Created by Dhanush Sriram on 2023-03-03.
+//  File:AppDelegate.swift
+//  Author:Dhanush Sriram
+// Student ID: 301299251
+// Date: March 3, 2023
 //
 
 import UIKit
